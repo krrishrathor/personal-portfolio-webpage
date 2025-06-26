@@ -80,3 +80,10 @@ The website is completely hand-coded using HTML, CSS, and JavaScript without any
 
 *OUTPUT*:
 
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/6bfb0203-1b18-4332-8e85-90dfc5cc41b3" />
+
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/01ee7540-5f3d-44e8-9536-c99e47fdb63a" />
+
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/ebd753ed-3178-40e3-9de7-0907b7efe9f1" />
+
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/83ce9b24-c375-4982-88a8-a862e4d70e31" />
